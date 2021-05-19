@@ -1,5 +1,5 @@
-# spring-basic-auth-practice
-Pratice app to play with Basic Authentication Authorization
+# Spring Auth Pratice
+Pratice app to play with Various Authentications except OAuth (Basic, JDBC, JPA, LDAP) along with role based Authorizations
 
 
 #References
