@@ -2,6 +2,12 @@ server:
   port: 8080
   context.path: /auth
 
+spring:
+  ldap:
+    embedded:
+      port: 8389
+      ldif: classpath:ldap-data.ldif
+
 user:
   oauth:
     user:

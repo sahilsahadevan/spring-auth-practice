@@ -3,4 +3,5 @@ Pratice app to play with Various Authentications except OAuth (Basic, JDBC, JPA,
 
 
 #References
-* https://www.youtube.com/watch?v=payxWrmF_0k&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE&index=5
+* https://www.youtube.com/watch?v=-wDUChgvYgU&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE&index=9
+* https://spring.io/guides/gs/authenticating-ldap/
