@@ -30,7 +30,11 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-web:${springBootVersion}")
     implementation("org.springframework.boot:spring-boot-starter-security:${springBootVersion}")
     implementation("org.springframework.security:spring-security-jwt:1.1.1.RELEASE")
-
+    implementation("org.springframework.boot:spring-boot-starter-jdbc:${springBootVersion}")
+/*
+    implementation("org.springframework.boot:spring-boot-starter-jpa:${springBootVersion}")
+*/
+    implementation("com.h2database:h2:1.4.191")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 
 }
