@@ -37,10 +37,10 @@ dependencies {
 
 
 springBoot {
-    mainClassName = 'com.example.sahil.auth.basic.Application'
+    mainClassName = 'com.example.sahil.auth.Application'
 }
 
 
 bootRun {
-    main = 'com.example.sahil.auth.basic.Application'
+    main = 'com.example.sahil.auth.Application'
 }
